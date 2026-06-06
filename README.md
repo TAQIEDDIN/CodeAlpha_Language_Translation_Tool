@@ -109,8 +109,6 @@ CodeAlpha_Language_Translation_Tool/
 
 **Taqi Eddine El Mamouni**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Taqi Eddine El Mamouni](https://linkedin.com/in/taqi-eddine-el-mamouni)
 
 ## 📄 License
 
